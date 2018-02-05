@@ -1,0 +1,41 @@
+body {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  background-image: url(/Users/artesiama/Codecademy/Projects/Broadway/resources/images);
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: gray;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: gray;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+body {
+  font-size: 14px;
+  color: white;
+}
+
+ .footer {
+   text-align: left;
+   font-size: 11px;
+   color: white;
+   background-color: dimgray;
+ }
