@@ -22,7 +22,7 @@ div {
   display: block;
 }
 
-.process-items {
+.process-stuff {
   text-align: center;
 }
 
@@ -39,6 +39,13 @@ h3 {
 p {
   font-size: 14px;
 }
+
+.where {
+  background-image: url(file:///Users/artesiama/Codecademy/Projects/Broadway/resources/images/the-flatiron-building.png);
+  text-align: center;
+  color: white;
+}
+
 
  .footer {
    text-align: left;
