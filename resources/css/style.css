@@ -8,7 +8,7 @@ body {
   color: white;
 }
 
-h1 {
+.main h1 {
   font-size: 70px;
   font-weight: bold;
 }
@@ -22,7 +22,7 @@ div {
   display: block;
 }
 
-.process-stuff {
+.supporting {
   text-align: center;
 }
 
@@ -36,7 +36,7 @@ h3 {
   font-weight: bold;
 }
 
-p {
+.supporting-item p {
   font-size: 14px;
 }
 
@@ -46,9 +46,7 @@ p {
   color: white;
 }
 
-
  .footer {
-   text-align: left;
    font-size: 11px;
    color: white;
    background-color: dimgray;
